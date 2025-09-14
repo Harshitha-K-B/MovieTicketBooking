@@ -10,6 +10,6 @@ A full-stack Movie Ticket Booking application built with **Spring Boot** (backen
 
 ## Tech Stack
 - Java 17 + Spring Boot
-- MySQL / H2 Database
+- Postgre
 - React + Tailwind CSS
 - REST APIs
